@@ -65,4 +65,11 @@ home.html, dan file css dengan nama style.css.
 ![image](https://github.com/Alifiananda06/Lab4Web/assets/115884834/83073e21-0031-4fd8-bd7a-63b4f31e5d89)
 
 
+![image](https://github.com/Alifiananda06/Lab4Web/assets/115884834/a3baeac6-afa4-4393-bc9e-b6e213fcec68)
+
+
+
+
+
+
 
