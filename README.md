@@ -148,6 +148,27 @@ Selanjutnya mengatur tampilan footer. Tambahkan CSS untuk footer.
  ![image](https://github.com/Alifiananda06/Lab4Web/assets/115884834/e0a2edd5-31b8-4219-a8a6-053c70e45edc)
  
 
+# Menambahkan Elemen lainnya pada Main Content
+
+![image](https://github.com/Alifiananda06/Lab4Web/assets/115884834/6f292093-57c3-4b58-812c-f5803e8b12e1)
+
+
+Kemudian tambahkan CSS.
+
+![image](https://github.com/Alifiananda06/Lab4Web/assets/115884834/28915eef-71ad-4732-ad6a-9d327c6e7ca3)
+
+
+![image](https://github.com/Alifiananda06/Lab4Web/assets/115884834/bbf24a6d-a4e4-4253-a149-c71ec7101b13)
+
+
+Lihat hasilnya dibrowser.
+
+![image](https://github.com/Alifiananda06/Lab4Web/assets/115884834/6815bbb3-bca8-45fb-890b-a3d9e27e6fca)
+
+
+# Menambahkan Content Artikel
+
+Selanjutnya membuat content artikel. Tambahkan HTML berikut pada main content.
 
 
 
