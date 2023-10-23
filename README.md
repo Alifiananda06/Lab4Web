@@ -68,6 +68,96 @@ home.html, dan file css dengan nama style.css.
 ![image](https://github.com/Alifiananda06/Lab4Web/assets/115884834/a3baeac6-afa4-4393-bc9e-b6e213fcec68)
 
 
+Kemudian buat kerangka layout dengan semantics element seperti berikut.
+
+![image](https://github.com/Alifiananda06/Lab4Web/assets/115884834/b81fe8de-1549-4140-99c8-70eee863cfe6)
+
+
+Kemudian tulis kode berikut.
+
+![image](https://github.com/Alifiananda06/Lab4Web/assets/115884834/50f330b3-1c5b-4fbc-9a60-ee7c53497b26)
+
+
+Kemudian buka browser dan lihat hasilnya
+
+![image](https://github.com/Alifiananda06/Lab4Web/assets/115884834/a8ad4deb-ca35-49da-ac2f-5baf22fd3962)
+
+
+Kemudian tambahkan kode CSS untuk membuat layoutnya.
+
+![image](https://github.com/Alifiananda06/Lab4Web/assets/115884834/a5b8af32-9d04-406a-9b1f-ff3df479b7ac)
+
+
+Kemudian buka browser dan lihat hasilnya
+
+![image](https://github.com/Alifiananda06/Lab4Web/assets/115884834/8976ad82-3a3c-41fa-b79c-b2e48ad33bf9)
+
+
+# Membuat Navigasi
+
+Kemudian selanjutnya mengatur navigasi.
+
+![image](https://github.com/Alifiananda06/Lab4Web/assets/115884834/243f756e-1990-4af8-a16e-eccc8763bac3)
+
+
+kemudian liat hasilya
+
+![image](https://github.com/Alifiananda06/Lab4Web/assets/115884834/646b7971-32e2-4d51-af82-8920883a850c)
+
+
+# Membuat Hero Panel.
+
+Selanjutnya membuat hero panel. Tambahkan kode HTML dan CSS seperti berikut.
+
+![image](https://github.com/Alifiananda06/Lab4Web/assets/115884834/329015b3-57c4-4ee6-ab1d-db64229286c5)
+
+
+![image](https://github.com/Alifiananda06/Lab4Web/assets/115884834/261e5587-d57d-4d28-b5f5-10cdc32153c9)
+
+
+Hasil
+Gambar 4.12 Tampilan Hero Panel.
+
+
+# Mengatur Layout Main dan Sidebar
+
+Selanjutnya mengatur main content dan sidebar, tambahkan CSS float.
+
+![image](https://github.com/Alifiananda06/Lab4Web/assets/115884834/734ca932-7578-45ec-b3be-67350458abcf)
+
+
+# Membuat Sidebar Widget
+
+Kemudian selanjutnya menambahkan element lain dalam sidebar.
+
+![image](https://github.com/Alifiananda06/Lab4Web/assets/115884834/8e341187-adcf-4627-9c22-9c16cf365a2d)
+
+
+Kemudian tambahkan CSS.
+
+![image](https://github.com/Alifiananda06/Lab4Web/assets/115884834/0b896629-fca8-469e-a238-2680de97e8cd)
+
+
+![image](https://github.com/Alifiananda06/Lab4Web/assets/115884834/ee61ca63-842e-4fed-aefb-752e04fc077e)
+
+
+# Mengatur Footer
+
+Selanjutnya mengatur tampilan footer. Tambahkan CSS untuk footer.
+
+ ![image](https://github.com/Alifiananda06/Lab4Web/assets/115884834/e0a2edd5-31b8-4219-a8a6-053c70e45edc)
+ 
+
+
+
+
+
+
+
+
+
+
+
 
 
 
